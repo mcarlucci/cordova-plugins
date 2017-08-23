@@ -1,4 +1,4 @@
-Experimental Plugins 
+Experimental Plugins
 ====================
 
 This repo stores plugins that are built by the Cordova team, but are not supported as "core" plugins. The plugins themselves are in branches of this repo.
@@ -29,9 +29,9 @@ See [README](https://github.com/apache/cordova-plugins/blob/keyboard/README.md)
 
 ## local-webserver
 
-See [README](https://github.com/apache/cordova-plugins/blob/local-webserver/README.md)
+See [README](https://github.com/mcarlucci/cordova-plugins/blob/local-webserver/README.md)
 
-`cordova plugin add https://github.com/apache/cordova-plugins#local-webserver`
+`cordova plugin add https://github.com/mcarlucci/cordova-plugins#local-webserver`
 
 ## notification-rebroadcast
 
@@ -53,9 +53,6 @@ See [README](https://github.com/apache/cordova-plugins/blob/tcpsocket/doc/index.
 
 ## wkwebview-engine-localhost
 
-See [README](https://github.com/apache/cordova-plugins/blob/wkwebview-engine-localhost/README.md)
+See [README](https://github.com/mcarlucci/cordova-plugins/blob/wkwebview-engine-localhost/README.md)
 
-`cordova plugin add https://github.com/apache/cordova-plugins#wkwebview-engine-localhost`
-
-
-
+`cordova plugin add https://github.com/mcarlucci/cordova-plugins#wkwebview-engine-localhost`
